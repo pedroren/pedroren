@@ -4,6 +4,10 @@
 - 💞️ I’m looking to work in North America or Europe
 - 📫 How to reach me pedroren@gmail.com
 
+1. SQL/.NetCore/Vue.js: (https://github.com/pedroren/gastosappvue)
+2. SQL/.Net/ASP.Net MVC
+
+
 <!---
 pedroren/pedroren is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
