@@ -4,8 +4,9 @@
 - 💞️ I’m looking to work in North America or Europe
 - 📫 How to reach me pedroren@gmail.com
 
-1. SQL/.NetCore/Vue.js: (https://github.com/pedroren/gastosappvue)
-2. SQL/.Net/ASP.Net MVC
+1. SQL -> .NetCore -> Vue.js: (https://github.com/pedroren/gastosappvue)
+2. SQL -> .Net -> ASP.Net MVC (Legacy): (Coming soon) 
+3. Firebase/MongoDB -> NodeJS -> ReactJS: (Coming soon) 
 
 
 <!---
