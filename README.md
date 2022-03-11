@@ -6,7 +6,7 @@
 
 1. SQL -> .NetCore -> Vue.js: (https://github.com/pedroren/gastosappvue)
 2. SQL -> .Net -> ASP.Net MVC (Legacy): (Coming soon) 
-3. Firebase/MongoDB -> NodeJS -> ReactJS: (Coming soon) 
+3. Firebase/MongoDB -> NodeJS -> ReactJS: (https://github.com/pedroren/moneytraceweb-back-nodejs and https://github.com/pedroren/moneytraceweb-front-react) 
 
 
 <!---
