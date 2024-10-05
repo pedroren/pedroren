@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Pedro Pimentel (@pedroren)
 - 👀 I'm currently a Full Stack Software Developer in SQL, C# .Net, Rest Api, Vue.Js, Angular
 - 🌱 I’m currently learning React.js and Node.js
-- 💞️ I’m looking to work in Canada
 - 📫 How to reach me pedroren@gmail.com
 
 1. SQL -> .NetCore -> Vue.js: (https://github.com/pedroren/gastosappvue)
